@@ -1,0 +1,13 @@
+---
+title: "Some Words and an R Code Chunk"
+author: "Danny Frank-Siegel"
+date: "10/29/2019"
+output: html_document
+---
+
+Some w o r d s
+
+```{r}
+chonk <- summary
+```
+
